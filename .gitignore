@@ -1,0 +1,7 @@
+scons
+scons-3.1.2
+.md
+!README.md
+**/Main/.cache/
+**/Main/build/
+**/Build/bin/
