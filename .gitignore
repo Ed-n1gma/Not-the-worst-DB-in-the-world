@@ -5,3 +5,5 @@ scons-3.1.2
 **/Main/.cache/
 **/Main/build/
 **/Build/bin/
+**/Build/*.tbl
+**/Build/.sconsign.dblite
